@@ -1,0 +1,12 @@
+{
+  "wards": {
+    "ward1": {
+      "beds": {
+        "bed1": { "patient": "Aisha Khan",   "weight": 420, "capacity": 500, "status": "NORMAL" },
+        "bed2": { "patient": "Rohan Mehta",  "weight": 85,  "capacity": 500, "status": "LOW"    },
+        "bed3": { "patient": "Priya Sharma", "weight": 310, "capacity": 500, "status": "NORMAL" },
+        "bed4": { "patient": "Vikram Nair",  "weight": 55,  "capacity": 500, "status": "LOW"    }
+      }
+    }
+  }
+}
